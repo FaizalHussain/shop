@@ -1,0 +1,13 @@
+#orderopc  #left_column h2 {margin-top:20px}
+
+#opc_account_choice {padding:0 15px;}
+#opc_account_choice .opc_float {
+    float:left;
+    width:50%;
+}
+#opc_account_choice .opc_float ul {margin:0 0 20px 30px}
+
+.customerprivacy{
+    margin: 0 auto;
+    margin-bottom: 20px;
+}

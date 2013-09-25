@@ -1,0 +1,79 @@
+h1 {display:none;}
+
+.resumecat {
+    margin:15px 0 10px 0;
+    padding:8px 7px;
+    background:#f0f0f0;
+}
+
+.inline_list .cat_desc {
+    line-height:18px;
+}
+.inline_list .cat_desc {padding:0 0 5px}
+.inline_list .cat_desc .lnk_more {
+    padding:0 10px 0 0;
+    color:#0088CC;
+}
+.inline_list .cat_desc p{
+    padding:0;
+}
+
+/* ************************************************************************************************
+      SUB CATEGORIES
+************************************************************************************************ */
+#subcategories {margin-top:15px}
+#subcategories h3 {
+    padding:14px 12px;
+    font-size:13px;
+    text-transform:uppercase;
+}
+
+.inline_list {
+    list-style-type:none;
+    margin-top:10px;
+}
+.inline_list.list li {
+    padding:0 0 10px;
+}
+.inline_list.list li .img {
+    float:left;
+    margin-right:15px
+}
+.inline_list.noimage li .img {
+    display: none;
+}
+.inline_list.grid li {
+    padding: 0 1% 0 0;
+    margin-bottom: 10px;
+    width:49%;
+    float:left;
+    height: 71px;
+    overflow: hidden;
+}
+.inline_list.grid li .cat_desc{
+    overflow: hidden;
+    padding:0;
+}
+.columnWide2 .inline_list.grid li, .columnWide3 .inline_list.grid li {
+    padding: 0 1% 0 0;
+    width:32%;
+}
+.inline_list.grid  li .img {
+    float:left;
+    margin-right:10px;
+}
+@media screen and (max-width: 959px) {
+    .resp .inline_list.grid  li {
+        width:49%;
+    }
+}
+
+
+
+.inline_list  li img {
+    border:1px solid #ccc
+}
+.inline_list  li .cat_name {
+    font-weight:bold;
+    font-weight:13px
+}

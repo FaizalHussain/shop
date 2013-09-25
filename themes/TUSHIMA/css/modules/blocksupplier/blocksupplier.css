@@ -1,0 +1,14 @@
+.blocksupplier li.last_item {border:none;}
+.blocksupplier li a {
+    display:block;
+    padding:7px 11px 5px 12px;
+    color:#333;
+    background:url(../../../img/arrow_right_2.png) no-repeat 1px 10px transparent
+}
+
+
+.blocksupplier form {margin-top:10px;}
+.blocksupplier p {
+    padding:0;
+}
+

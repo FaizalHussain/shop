@@ -1,0 +1,332 @@
+body{
+    color: #3d3d3d !important;
+    background-color: #e3e3e3 !important;
+ 
+}
+
+#layout{
+    background-color: #ffffff !important;
+}
+
+#cms.content_only{
+    color: #3d3d3d !important;
+    background: #ffffff !important;
+}
+
+#center_column a{
+    color: #4f4d4f;
+}
+
+.column{
+    background-color: #ffffff !important;
+}
+
+.column .block h4, .column .block .title_block, #best-sellers_block_right li a.content_img, .bx-pager a.pager-active{
+    background-color: #e01010 !important;
+
+}
+.column .block h4, .column .block .title_block, .block h4 a, .column .block .title_block a, #best-sellers_block_right li span.number, .bx-pager a.pager-active{
+    color: #e3e3e3 !important;
+}
+
+.column .block .block_content a, .bx-pager a{
+}
+
+.column .block .block_content a.descriptionText, .column .block_content p, #special_block_right .products span.price-discount, #wishlist_block_list dt, #layered_block_left{
+}
+#columns .column a.lnk_more{
+}
+.sf-menu a, #selectMenu{
+    color: #ffffff !important;
+}
+.sf-menu li li a{
+    color: #000000 !important;
+}
+.sf-menu, #selectMenu{
+    background-color: #e01010 !important;
+}
+.sf-menu li li{
+    background-color: #ffffff !important;
+}
+#footer{
+    background-color: #dbdbdb !important;
+}
+#footer, #footer a, #footer h4, #footer h4 a, #footer .title_block, #footer .title_block a{
+    color: #5c5c5c !important;
+}
+#reinsurance_block{
+    background-color: #cccccc !important;
+}
+#reinsurance_block li{
+    color: #363636 !important;
+}
+#shopping_cart a, #cart_block{
+    background-color: #ffffff !important;
+}
+#cart_block, #cart_block a, #shopping_cart a{
+}
+#currencies_block_top, #setCurrency .currencies_ul, #languages_block_top, #countries .countries_ul{
+}
+#currencies_block_top, .currencies_ul a{
+}
+#center_column h1, #center_column h2, #center_column h3, #center_column h4, #center_column h5, #center_column h1 a, #center_column h2 a, #center_column h3 a, #center_column h4 a, #center_column h5 a, #center_column .title_block, #center_column .title_block a, #center_column .s_title_block, #center_column .s_title_block a{
+    color: #333333 !important;
+}
+.column .block, .bx-pager a{
+    background-color: #ffffff !important;
+}
+input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, button.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled{
+    color: #ffffff !important;
+}
+#new_comment_form button, input.button_disabled, input.exclusive_disabled, span.exclusive, .cart_navigation .button, .cart_navigation .button_large, .sortPagiBar #bt_compare{
+}
+.formStyle p.text input, .formStyle p.password input, .formStyle p.select input, .formStyle p.textarea textarea, .cart_voucher input.discount_name, .textarea textarea, #newsletter_block_left input.inputNew, #order-opc #opc_delivery_methods textarea {
+    background-color: #dbdbdb !important;
+}
+.formStyle p.text input, .formStyle p.password input, .formStyle p.select input, .formStyle p.textarea textarea, .cart_voucher input.discount_name, .textarea textarea, #newsletter_block_left input.inputNew, #order-opc #opc_delivery_methods textarea {
+    color: #363636 !important;
+}
+table.std th, table.table_block th, .cart_delete a.cart_quantity_delete, a.price_discount_delete, #mywishlist td.wishlist_delete a, .cart_total_price .total_price_container p{
+    background-color: #ff0000 !important;
+}
+table.std th, table.table_block th, .cart_delete a.cart_quantity_delete, a.price_discount_delete, #mywishlist td.wishlist_delete a, .cart_total_price .total_price_container p{
+    color: #ffffff !important;
+}
+td, th, .delivery_option{
+    border-color: #ffffff !important;
+}
+table.std td{
+    color: #363636 !important;
+}
+table.std td a, .cart_quantity .cart_quantity_input{
+    color: #6e6e6e !important;
+}
+.column .block_content span.price{
+}
+.products_block a.product_image, #pb-right-column #image-block img, #thumbs_list li img, ul.pagination a, ul.pagination span, #productscategory_list li a img, .attribute_list #color_to_pick_list li, #product_comparison .product_image img{
+}
+.column li{
+}
+#header_user_info a, #header_user_info, #header_links a{
+}
+#header_links li, #header_user_info a{
+}
+#center_column #create-account_form h3, #center_column #authentication #login_form h3, #center_column .formStyle h3, #order #center_column .delivery_options_address h3, #order-opc #center_column .delivery_options_address h3, #center_column ul.address li.address_title, #center_column #order-opc h2 span{
+    background-color: #5c5c5c !important;
+}
+#center_column #create-account_form h3, #center_column #authentication #login_form h3, #center_column .formStyle h3, #order #center_column .delivery_options_address h3, #order-opc #center_column .delivery_options_address h3, #center_column ul.address li.address_title, #center_column #order-opc h2 span{
+    color: #ffffff !important;
+}
+.formStyle fieldset, #multishipping_mode_box, ul.address, .order_carrier_content, .paiement_block, ul.step li.step_current span, ul.step li.step_current_end span, #history #center_column h4{
+}
+.formStyle p.text input, .formStyle p.password input, .formStyle p.select input, .formStyle p.textarea textarea, .cart_voucher input.discount_name, .textarea textarea, #newsletter_block_left input.inputNew, #order-opc #opc_delivery_methods textarea {
+}
+table.std, table.table_block, .cart_quantity .cart_quantity_input, .delivery_option.item{
+    background-color: #dbdbdb !important;
+}
+table.std tr.alternate_item, table.table_block tr.alternate_item, table tr.even, #order-detail-content table tr:nth-child(even), #product_comparison tr.comparison_header, #product_comparison td.comparison_feature_even, .delivery_option.alternate_item{
+    background-color: #cccccc !important;
+}
+#center_column #our_price_display, #center_column .discount, #center_column .price, #center_column #product_list li .discount, #center_column #product_list li .on_sale, #center_column #product_list li .online_only, .on_sale{
+    color: #363636 !important;
+}
+#center_column .products_block .product_desc, #center_column .products_block .product_desc a{
+    color: #4f4d4f !important;
+}
+#center_column a.lnk_more{
+    color: #787878 !important;
+}
+input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, button.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled{
+    background-color: #2d87fc !important;
+}
+#new_comment_form button, input.button_disabled, input.exclusive_disabled, span.exclusive, .cart_navigation .button, .cart_navigation .button_large, .sortPagiBar #bt_compare{
+    background-color: #2d87fc !important;
+}
+#search_block_top .button, .ac_over{
+}
+#search_block_top #search_query_top, .ac_results{
+}
+#search_block_top .button, .ac_over{
+}
+#search_block_top #search_query_top, .ac_results{
+}
+.success{
+}
+.success{
+}
+.warning{
+}
+.warning{
+}
+.error{
+}
+.error{
+}
+.success, .warning, .error{
+}
+.success a, .warning a, .error a{
+}
+#product_list li span.availability{
+}
+.products_block li span.new, #special_block_right .products span.reduction span, #availability_statut span#availability_value, #reduction_percent span, #reduction_amount span{
+    color: #ffffff !important;
+}
+.products_block li span.new, #special_block_right .products span.reduction span, #availability_statut span#availability_value, #reduction_percent span, #reduction_amount span{
+    background-color: #ff0000 !important;
+}
+.idTabs a{
+    background-color: #ff0000 !important;
+}
+.idTabs{
+    border-color: #ff0000 !important;
+}
+.idTabs .selected{
+    background-color: #ff0000 !important;
+}
+.idTabs a{
+    color: #ffffff !important;
+}
+.idTabs .selected{
+    color: #ffffff !important;
+}
+.resumecat, #center_column .sortPagiBar, .product_attributes, ul.pagination a, ul.pagination span, #module-blockwishlist-mywishlist #mywishlist fieldset{
+}
+.formStyle p.radio span, .formStyle p.text label, .formStyle p.password label, .formStyle p.select label, .formStyle p.select span, .formStyle p.textarea label, ul.address, #multishipping_mode_box, .order_carrier_content, .paiement_block, ul.step li.step_current, #history #center_column h4, #address p.inline-infos{
+}
+.formStyle p.text label sup, .formStyle p.password label sup, .formStyle p.select label sup{
+    color: #a32a2a !important;
+}
+#search_block_top #search_query_top, .ac_results{
+}
+.requiredP{
+    color: #a32a2a !important;
+}
+.sf-menu li {
+}
+
+
+
+
+
+
+    #layout{
+    -webkit-box-shadow:0px 0px 4px 4px rgba(0, 0, 0, 0.15) !important;
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.15) !important;
+    }
+
+    .sf-menu{
+    -webkit-box-shadow:0px 0px 3px 3px rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.1) !important;
+    }
+
+
+
+    input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, button.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled, #new_comment_form button, input.button_disabled, input.exclusive_disabled, span.exclusive, .cart_navigation .button, .cart_navigation .button_large, .sortPagiBar #bt_compare{
+    -webkit-box-shadow:0px 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
+    }
+
+
+    #layout{
+        background-image: url('../img/design/layout.png') !important;
+            background-repeat:repeat-x !important;
+        }
+    
+        
+    
+    
+
+    input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, button.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled, #new_comment_form button, input.button_disabled, input.exclusive_disabled, span.exclusive, .cart_navigation .button, .cart_navigation .button_large, .sortPagiBar #bt_compare{
+        background-image: url('../img/design/button.png') !important;
+    }
+    
+    .sf-contener .sf-menu{
+        background-image: url('../img/design/menubg.png') !important;
+    }
+    
+    .column .block .title_block{
+    background-image: url('../img/design/columnsheaderbg.png') !important;
+    }
+    
+    
+     body{
+            font-family: Arial, Helvetica, sans-serif !important;
+        }
+
+    
+
+    body{
+        
+    }
+    
+    body .sf-contener{
+            font-size: 13px !important;
+        line-height:16px !important;
+        
+    }
+  
+
+
+    #footer{
+    -webkit-border-radius: 8px 8px 0px 0px !important;
+    border-radius: 8px 8px 0px 0px !important;
+    }
+    #reinsurance_block{
+    -webkit-border-radius: 8px 8px 0px 0px !important;
+    border-radius: 8px 8px 0px 0px !important;
+    }
+    
+.sf-menu > li a:hover, .sf-menu > li.sfHoverForce{
+    background: #000000 !important;
+}
+.sf-menu > li a:hover, .sf-menu > li.sfHoverForce a{
+    color: #ffffff !important;
+}
+.sf-menu li li a:hover, .sf-menu li li.sfHoverForce{
+    background: #000000 !important;
+}
+.sf-menu li li a:hover, .sf-menu li li.sfHoverForce, .sf-menu li li.sfHoverForce a {
+    color: #ffffff !important;
+}
+    
+    
+    #left_column{
+        float:right !important;
+        margin:0 0 0 10px !important;
+    }
+    #right_column{
+        display:none;
+    } 
+    
+    
+    
+    #index #left_column{
+        display:none;
+    } 
+    #index #right_column{
+        display:none;
+    }          
+    
+    #category #left_column{
+    float:right !important;
+    margin:0 0 0 10px !important;
+    }
+    #category #right_column{
+    display:none;
+    } 
+    
+    
+    
+    #product #left_column{
+    float:right !important;
+    margin:0 0 0 10px !important;
+    }
+    #product #right_column{
+    display:none;
+    } 
+    
+    
+
+    
+
+

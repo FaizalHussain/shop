@@ -1,0 +1,37 @@
+#my-account #center_column h1 {
+    margin-bottom:20px
+}
+
+#my-account #center_column h4 {
+    font-weight:normal;
+    font-size:12px;
+    color:#666
+}
+#my-account .myaccount_lnk_list {
+    list-style-type:none;
+    padding-bottom: 20px;
+}
+#my-account .myaccount_lnk_list li {
+    font-size:13px;
+    line-height:36px;
+    width: 50%;
+    float: left;
+}
+#my-account .myaccount_lnk_list img.icon {
+    position: relative;
+    top: 10px;
+    left: 0;
+    margin-right: 10px;
+}
+#my-account p img.icon{
+    position: relative;
+    top: 3px;
+    left: 0;
+    margin-right: 10px;
+}
+@media only screen and (max-width:519px){
+    #my-account .myaccount_lnk_list li {
+        width: 100%;
+        float: left;
+    }
+}

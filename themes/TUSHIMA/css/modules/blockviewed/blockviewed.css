@@ -1,0 +1,31 @@
+#viewed-products_block_left .products li {
+    margin-bottom: 10px;
+    position: relative;
+    min-height: 70px;
+}
+#viewed-products_block_left .products li.last_item {
+    margin-bottom:0;
+    border:none;
+}
+
+#viewed-products_block_left .content_img {
+    position:absolute;
+    top:0;
+    left:0;
+}
+#viewed-products_block_left .text_desc {
+    float: left;
+    width: auto;
+    padding-left: 68px;
+}
+#viewed-products_block_left li .text_desc h5 {
+    padding:0 0 5px 0;
+    font-size:12px;
+    color:#333;
+}
+#viewed-products_block_left p{
+    padding-bottom:10px;
+}
+#viewed-products_block_left .last_item p{
+    padding-bottom:0;
+}
